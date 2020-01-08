@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package wormgame.gui;
 
 import java.awt.event.KeyEvent;
@@ -10,10 +6,6 @@ import java.awt.event.KeyListener;
 import wormgame.Direction;
 import wormgame.domain.Worm;
 
-/**
- *
- * @author Fidel
- */
 public class KeyboardListener implements KeyListener {
     
     private Worm worm;
